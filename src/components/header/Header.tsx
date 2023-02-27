@@ -1,6 +1,6 @@
 import React from "react";
-import logotipo from "../../assets/img/logo.png";
-import { Container } from "./styles";
+import logotipo from "../../assets/img/Logo PortL.png";
+import { Container } from "./styles.module";
 const Header = () => {
   return (
     <Container>
